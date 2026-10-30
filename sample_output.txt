@@ -1,0 +1,6 @@
+Example output format (actual values depend on training):
+Epoch 1/5 - average loss: X.XXXX
+...
+Epoch 5/5 - average loss: X.XXXX
+Test accuracy: XX.XX%
+Saved model: mnist_logistic_regression.pth
